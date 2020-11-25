@@ -1,0 +1,22 @@
+form {
+    background-image:linear-gradient(to right, lightgrey, darkgrey);
+    height: 280px;
+    width: 50%;
+    border-radius: 1rem;
+}
+
+body {
+    background-color: grey;
+}
+
+h1 {
+    color:white;
+    padding-top:15px;
+}
+
+#result {
+    font-size: 30px;
+    color: white;
+    padding-bottom: 15px;
+    margin-bottom: 10px;
+}
